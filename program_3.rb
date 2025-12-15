@@ -6,3 +6,4 @@ if number > 0
 else
   puts "Negative number"
 end
+puts'hello world'
