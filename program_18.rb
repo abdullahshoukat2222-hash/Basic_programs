@@ -8,4 +8,6 @@ when 0..74
   puts "Not allowed for exam"
 else
   puts "Invalid percentage"
+else
+  puts "Invalid Entry"
 end
